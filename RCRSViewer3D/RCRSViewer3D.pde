@@ -1,11 +1,3 @@
-/*
-[RCRSViewer3D]
-
-Copyright (c) [2015] [Kouki Yoshida]
-
-This software is released under the MIT License.
-http://opensource.org/licenses/mit-license.php
-*/
 import java.awt.Label;
 import java.awt.Panel;
 import java.awt.GridLayout;
